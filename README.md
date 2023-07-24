@@ -1,6 +1,6 @@
 Hi, I’m @GiovanniSequani
 - I’m studing Statistics for Technology and Science at University of Padua
-- I’m interested in Machine Learning
+- I’m interested in Python and Machine Learning
 - Hobby: chess, football and techno
 
 <!---
